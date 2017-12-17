@@ -5,7 +5,7 @@
 ##### main features:
 1. obviously less code
 2. pure separation of concerns of markup and styling
-3. open source
+3. w3c valid markup
 
 ##### usage:
 1. git clone
